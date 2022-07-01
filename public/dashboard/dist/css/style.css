@@ -1,0 +1,9 @@
+.result{
+
+    background-color:gray;
+    color:red;
+    font-size:16px;
+    margin:5px;
+    padding:5px;
+    display: none;
+}
